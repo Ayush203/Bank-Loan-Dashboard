@@ -82,10 +82,5 @@ One-stop solution for deeper loan portfolio insights
 
 
 screenshot of Bank Loan Summary
-https://github.com/Ayush203/Bank-Loan-Dashboard/blob/main/Bank%20Loan%20Summary.png
+Example: ![Dashboard Preview].(https://github.com/Ayush203/Bank-Loan-Dashboard/blob/main/Bank%20Loan%20Summary.png)
 
-Power Query Transformation
-
-DAX for KPIs & Measures
-
-Building Interactive Dashboards in Power BI
