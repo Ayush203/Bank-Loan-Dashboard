@@ -79,13 +79,10 @@ Consolidated snapshot of all loan-related metrics
 
 One-stop solution for deeper loan portfolio insights
 
-🎯 Learning Outcomes / Skills Gained
 
-SQL for Business Problem Solving
 
-Data Cleaning & Processing
-
-Data Modeling
+screenshot of Bank Loan Summary
+https://github.com/Ayush203/Bank-Loan-Dashboard/blob/main/Bank%20Loan%20Summary.png
 
 Power Query Transformation
 
